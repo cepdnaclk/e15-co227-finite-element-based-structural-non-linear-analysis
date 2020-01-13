@@ -23,6 +23,9 @@ class Element:
             section = Section(section_id, cross_section)
             # section.f_section_resist = section.analyze([0, 0])[0]
             section.analyze([0, 0])
+            # initk = section.k_section
+            # print(initk)
+            # break
             self.sections.put(section_id, section)
 
         if self.n_sections == 3:
