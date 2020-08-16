@@ -27,5 +27,5 @@ The main objective of this project was to find the **time and memroy efficient**
 
 
 ## Please note ##
-This work was done as a partial requirement for [CO328 Software Engineering](http://www.ce.pdn.ac.lk/undergraduate-courses/)) course. **This implementation consists of the linear elastic region analysis only.**
+This work was done as a partial requirement for [CO328 Software Engineering](http://www.ce.pdn.ac.lk/undergraduate-courses/)) course. **This implementation consists of the linear and non linear region analysis **
 
